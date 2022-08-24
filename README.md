@@ -1,5 +1,6 @@
 ## Hey! I'm Fábio Mateus 🖐️
 
+![fbomateus GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbomateus&layout=compact&langs_count=7&theme=dracula"/>
 ![fbomateus GitHub stats](https://github-readme-stats.vercel.app/api?username=fbomateus&show_icons=true&theme=dracula&count_private=true)
 
 ## Some technologies I use in my daily life
