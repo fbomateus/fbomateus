@@ -1,8 +1,8 @@
-## Olá! Eu sou o Fábio Mateus 🖐️
+## Hey! I'm Fábio Mateus 🖐️
 
 ![fbomateus GitHub stats](https://github-readme-stats.vercel.app/api?username=fbomateus&show_icons=true&theme=dracula&count_private=true)
 
-## Algumas tecnologias que eu uso no meu dia
+## Some technologies I use in my daily life
 
 ### Front-end
 <div style="display: inline_block">
@@ -33,4 +33,4 @@
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Passionate about technology, education and changing people's lives through programming.
