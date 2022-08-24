@@ -1,7 +1,7 @@
 ## Hey! I'm Fábio Mateus 🖐️
 
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?fbomateus&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbomateus&layout=compact&langs_count=7&theme=dracula"/>
   ![fbomateus GitHub stats](https://github-readme-stats.vercel.app/api?username=fbomateus&show_icons=true&theme=dracula&count_private=true)
 </div><br/>
 
